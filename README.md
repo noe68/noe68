@@ -1,6 +1,6 @@
 ### ➜ 😊 Hi, I'm JacksNooob
 
-- 🔭 I’m currently working on [SecretProject]()
+- 🔭 I’m currently working on **SecretProject**
 - 📫 How to reach me: [Discord](https://discord.com/users/579260691458818060)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in Alsace
